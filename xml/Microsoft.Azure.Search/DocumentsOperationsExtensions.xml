@@ -861,7 +861,7 @@
             </param>
         <param name="searchText">
             A full-text search query expression; Use null or "*" to match all documents. See
-            <see href="https://docs.microsoft.com/rest/api/searchservice/Simple-query-syntax-in-Azure-Search" /> for more information about search
+            <see href="https://docs.microsoft.com/rest/api/searchservice/Simple-query-syntax-in-Azure-Search">page</see> for more information about search
             query syntax.
             </param>
         <param name="searchParameters">
